@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Welcome to React! :) 234
           </p>
+          <p>I was change on feature Branch!</p>
           <a
             className="App-link"
             href="https://reactjs.org"
